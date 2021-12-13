@@ -35,5 +35,8 @@ QGIS 시각화
 Python code
 
 ### Data
-QGIS 결과 파일, shp data, excel data 
+분석 결과 :
+result_qgis QGIS 결과 파일
+사용데이터 :
+shp data, excel data 
 
