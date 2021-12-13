@@ -24,7 +24,7 @@
 시각화
 ![image](https://user-images.githubusercontent.com/79688191/145763307-8446f9a5-2c69-4903-a1f6-8469a913623b.png)
 
-###분석 결과
+### 분석 결과
 QGIS 시각화
 ![image](https://user-images.githubusercontent.com/79688191/145762984-5185af7d-979f-407e-bd13-24e7a0be7e9a.png)
 
@@ -33,4 +33,7 @@ QGIS 시각화
 
 ### CODE
 Python code
+
+### Data
+QGIS 결과 파일, shp data, excel data 
 
