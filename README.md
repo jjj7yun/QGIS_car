@@ -19,6 +19,8 @@
 총점.PY
 순위계산
 ![image](https://user-images.githubusercontent.com/79688191/145763251-265a9fa1-cdaa-48ff-b3e8-684fead2ec58.png)
+
+
 시각화
 ![image](https://user-images.githubusercontent.com/79688191/145763307-8446f9a5-2c69-4903-a1f6-8469a913623b.png)
 
